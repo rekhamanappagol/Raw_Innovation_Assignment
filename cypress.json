@@ -1,0 +1,7 @@
+{
+
+    "ignoreTestFiles": ["**/2-*/**"],
+    "pageLoadTimeout": 1200000,
+    "defaultCommandTimeout": 120000,
+    "chromeWebSecurity": false
+}

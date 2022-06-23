@@ -1,0 +1,15 @@
+{
+  "name": "cypress_self",
+  "version": "1.0.0",
+  "description": "cypress setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rekha Manappagol",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.7.0",
+    "cypress-iframe": "^1.0.1"
+  }
+}
